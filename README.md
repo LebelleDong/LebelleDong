@@ -1,4 +1,4 @@
-## Hi, I'm Lebelle Dong 👋
+## Hi, I'm Lebelle 👋
 
 👩🏻‍💻 I'm interested in Machine Learning & AI Product Management.<br>
 ✏️ I’m currently  studying at UofT in the MIE program.<br>
